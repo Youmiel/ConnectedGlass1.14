@@ -1,1 +1,1 @@
-{"__comment":"Generated from CTMGlassGenerator by Youmiel","ctm":{"ctm_version":1,"type":"CTM","layer":"TRANSLUCENT","textures":["minecraft:block/ctm/blue_stained_glass_ctm"]}}
+{"__comment":"Generated from CTMGlassGenerator by Youmiel","ctm":{"ctm_version":1,"type":"CTM","layer":"TRANSLUCENT","textures":["minecraft:block/ctm/blue_stained_glass_ctm"],"extra":{"ignore_states":true}}}
