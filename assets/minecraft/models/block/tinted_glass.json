@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/tinted_glass"
-  }
-}
+{"parent":"minecraft:block/cube_all","textures":{"all":"minecraft:block/glass/tinted_glass"}}
